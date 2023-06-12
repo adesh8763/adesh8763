@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on full stack projects
-- 📫 my email address: adeshprasaddashmtech@gmail.com
+- 📫 my email address: adeshprasaddash@outlook.com
 
 <!---
 adesh8763/adesh8763 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
