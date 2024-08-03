@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adesh8763
-- 👀 I’m a passionate MERN stack developer with a solid foundation in JAVA.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on full stack projects
+- 👀 I’m a C/C++ Developer
+- 💞️ I’m looking to collaborate on Projects
 - 📫 my email address: adeshprasaddashmtech@gmail.com
 
 <!---
