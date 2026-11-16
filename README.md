@@ -23,6 +23,7 @@ I am building toward a career as an Autonomous Systems Engineer, with a long-ter
 
 ### Programming Languages
 - C++ (primary)
+- Rust (System level software and Safety critical applications)
 - Python (for scripting and AI/ML workflows)
 - MATLAB / Simulink
 
