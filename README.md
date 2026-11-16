@@ -68,13 +68,6 @@ I am building toward a career as an Autonomous Systems Engineer, with a long-ter
 
 ---
 
-## Achievements
-
-- Runner-up, Qiskit Fall Fest 2024  
-- Summer Research Intern, IIT Patna  
-
----
-
 ## Current Focus
 
 - Advanced control systems and system modeling  
