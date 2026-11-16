@@ -61,7 +61,7 @@ I am building toward a career as an Autonomous Systems Engineer, with a long-ter
 - MATLAB/Simulink-based simulation
 - Time-domain performance analysis and controller tuning
 
-### Microplastics Wastewater Treatment (IIT Patna Internship)
+### Microplastics Wastewater Treatment
 - Studied identification and removal of microplastics in wastewater
 - Worked on filtration and chemical treatment methods
 - Contributed to improved treatment protocols
